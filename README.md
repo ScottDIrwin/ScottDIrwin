@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScottDIrwin
 - 👀 I’m interested in Amateur/Ham Radio, Technology
-- 🌱 I’m currently learning PRogramming
+- 🌱 I’m relearning programming
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me http://www.scottdirwin.com/
 
